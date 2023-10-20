@@ -20,7 +20,7 @@
 To set up the Doctor Patient Appointment Booking System, follow these steps:
 1. Install node.js from manufacturer website.
 2. Clone the repository or download the source code files.
-3. Go to the backend folder using command cd backend
+3. Make sure you are in the root directory in console.
 4. Install the required dependencies by running the following command:
    
    `npm install`
