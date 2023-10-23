@@ -30,7 +30,7 @@ To set up the Doctor Patient Appointment Booking System, follow these steps:
 ```env
 PORT= //The desired port to run the application
 DATABASE_URL= //The MongoDB URL to be used in the application
-SECRET="// the desired secret for user authentication"
+SECRET="1234"
 ```
 
 ## Usage
